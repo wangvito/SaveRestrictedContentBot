@@ -1,7 +1,7 @@
 #Github.com-Vasusen-code
 
-https://github.com/LonamiWebs/Telethon/releases/tag/v1.27.0
-ethon
+https://github.com/LonamiWebs/Telethon/releases/tag/v1.27.0.zip
+ethon==69.2
 cryptg
 tgcrypto
 pyrogram==1.4.16
